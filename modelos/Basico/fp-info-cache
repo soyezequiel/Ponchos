@@ -1,4 +1,4 @@
-26736510544718288
+26725944559708003
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92672,90 +92672,6 @@ mousebite stamp slot break tab 2mm edge on-edge
 0
 0
 0
-Poncho_Esqueleto
-Conn_Poncho_Chico
-
-CONN Poncho
-0
-80
-80
-Poncho_Esqueleto
-Conn_Poncho_Completo
-
-CONN Poncho
-0
-84
-81
-Poncho_Esqueleto
-Conn_Poncho_Derecha
-
-CONN Poncho
-0
-40
-40
-Poncho_Esqueleto
-Conn_Poncho_Izquierdo
-
-CONN Poncho
-0
-40
-40
-Poncho_Esqueleto
-Conn_Poncho_Mediano
-
-CONN Poncho
-0
-84
-81
-Poncho_Esqueleto
-Conn_Poncho_SinBorde
-
-CONN Poncho
-0
-80
-80
-Poncho_Esqueleto
-Logo_EDU-CIAA
-
-
-0
-0
-0
-Poncho_Esqueleto
-Logo_OSHWA
-
-
-0
-0
-0
-Poncho_Esqueleto
-Logo_Poncho
-
-
-0
-0
-0
-Poncho_Esqueleto
-Plantilla_EDU-CIAA
-
-plantilla poncho EDU CIAA
-0
-0
-0
-Poncho_Esqueleto
-Plantilla_Pico
-
-
-0
-0
-0
-Poncho_Esqueleto
-Symbol_KiCAD-Logo_CopperAndSilkScreenTop
-Symbol, KiCAD-Logo, Silk & Copper Top,
-Symbol, KiCAD-Logo, Silk & Copper Top,
-0
-0
-0
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -95017,13 +94933,6 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
-ROB-14450
-MODULE_ROB-14450
-
-
-0
-16
-16
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
@@ -106434,3 +106343,52 @@ Varistor VF
 0
 2
 2
+footprint
+Conn_Poncho_Derecha
+
+CONN Poncho
+0
+40
+40
+footprint
+Conn_Poncho_Izquierdo
+
+CONN Poncho
+0
+40
+40
+footprint
+Conn_Poncho_SinBorde
+
+CONN Poncho
+0
+80
+80
+footprint
+Logo_EDU-CIAA
+
+
+0
+0
+0
+footprint
+Logo_OSHWA
+
+
+0
+0
+0
+footprint
+Logo_Poncho
+
+
+0
+0
+0
+footprint
+Plantilla_EDU-CIAA
+
+plantilla poncho EDU CIAA
+0
+0
+0

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Poncho_Mediano-rescue")(type "Legacy")(uri "${KIPRJMOD}/Poncho_Mediano-rescue.lib")(options "")(descr ""))
+)
